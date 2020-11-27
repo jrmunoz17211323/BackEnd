@@ -5,7 +5,7 @@ the code of the final excercise for the sprint1 misiotin2022
 This project was made for Daniel Duque to test the first workshop of the MisionTic2022 ciclo 3
 > CICLO 3 DE FORMACIÓN: DESARROLLO DE SOFTWARE
 
-This project starts with a `git` configuration using commands like
+This project starts with a `git` configuration using commands like eee
 ```
 git add remote
 git remote -v
